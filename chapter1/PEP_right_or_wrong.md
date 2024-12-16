@@ -17,12 +17,12 @@ Which of the below alignments are correct?
         result = my_function(area_A, area_B,
             area_C, area_D)
 
-- [ ] d
+- [x] d
 
         result = my_function(area_A, area_B,
                              area_C, area_D)
 
-- [ ] e
+- [x] e
 
         result = my_function(
             area_A, area_B,
