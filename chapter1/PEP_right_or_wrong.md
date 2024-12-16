@@ -55,7 +55,7 @@ Constants:
 - [x] a `THRESHOLD = 0.1`
 - [ ] b `threshold = 0.1`
 - [ ] c `Threshold = 0.1`
-- [ ] d `T = 0.1`
+- [x] d `T = 0.1`
 
 Other:
 - [ ] a `list = my_areas`
@@ -64,13 +64,13 @@ Other:
 - [ ] d `_list = my_areas`
 
 Modules:
-- [x] a `Numerical.py`
-- [ ] b `numerical.py`
-- [ ] c `numerical_analysis.py`
+- [ ] a `Numerical.py`
+- [x] b `numerical.py`
+- [x] c `numerical_analysis.py`
 - [ ] d `numerical-analysis.py`
 
 Packages:
-- [x] a `MyCoolPackage`
+- [ ] a `MyCoolPackage`
 - [ ] b `my-cool-package`
 - [ ] c `my_cool_package`
-- [ ] d `analysator`
+- [x] d `analysator`
